@@ -1,0 +1,16 @@
+{
+	"name": "Legendary Spawn Increased v1.0.0",
+	"description": "Legendary NPC spawn rate incresed x3 up to 3% from around %1 before",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1674189687",
+	"steamVisibility": 0,
+	"folderName": "LegendarySpawnIncreased",
+	"revisionNumber": 124716,
+	"snapshotId": 20621
+}

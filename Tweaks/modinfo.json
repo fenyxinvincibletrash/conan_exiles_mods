@@ -1,0 +1,16 @@
+{
+	"name": "Tweaks 1.1.4",
+	"description": "My tweaks. Better do not use this",
+	"changeNote": "Added dlc items transmogr",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 1,
+	"versionBuild": 4,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1698457668",
+	"steamVisibility": 1,
+	"folderName": "Tweaks",
+	"revisionNumber": 126893,
+	"snapshotId": 20805
+}

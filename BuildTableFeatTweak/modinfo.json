@@ -1,0 +1,16 @@
+{
+	"name": "Builder's Workbench Clean Inventory v1.0.2",
+	"description": "WARNIGN: It's a tweak mod. This mod will do nothing without\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1710620926\nFurhtermore, you can not be able to craft building pieces without Builder's Workbench. Do not use it without that mod.\n\nMod simply removes recipes from inventory. So you will not be able craft building pieces from inventory but just on builder's workbench.",
+	"changeNote": "Fixed maproom issue",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 2,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1715804766",
+	"steamVisibility": 2,
+	"folderName": "BuildTableFeatTweak",
+	"revisionNumber": 128262,
+	"snapshotId": 20873
+}

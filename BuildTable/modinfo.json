@@ -1,0 +1,16 @@
+{
+	"name": "Builder's Workbench v1.0.2",
+	"description": "This mod allows you to craft building pieces on the new workbench instead of inventory. So you can put materials, start crafting and do what you want instead of of being overencumbered.\n\nNOTE: Mod does not work with DLC items.\n\nThe cost of recipes is the same as inventory craft so mod doesn't affect balance (yet).\nThere it no possibility to put thrall on that workbench.\n\nPS\nI've added simple tweak mod which allows carpenters to operate on builder's workbench. This reduces crafting cost and speed depends on thrall level (up to x2).\n(link will be here soon)\nBecause it affects balance and make life easier I've splited them to two mods. Use as you prefer.\n\nMy mods:\nTransmogrification\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1697892841\nSevere Purge\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1691556242\nHardened North\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1636189365\nDeadly Creatures PVE\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1635257531\nLegendary Spawn Increased\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1674189687",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 2,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1710620926",
+	"steamVisibility": 0,
+	"folderName": "BuildTable",
+	"revisionNumber": 126893,
+	"snapshotId": 20805
+}

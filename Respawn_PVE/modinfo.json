@@ -1,0 +1,16 @@
+{
+	"name": "Hardened North PVE 0.7.1",
+	"description": "The main purpose of this mod to make Volcano and Mounds of the Dead great again.\nSo have been added wolves and spider to these zones.\nVolcano now is 60 lvl zone\n\nChange notes:\nCreated new NPC Lava Spider\nAdded:\nWolves to Mounds of Dead\nLava Spiders to Volcano\nHuman NPCs in Volcano now have better armor and weapon\nAdded 2 new named female fighters 4. Daicas have been changed to female (it's usual surgery so it can be possible in Conan world as well :) ) with random apearance.(just for new thralls) \nSpinas has random apearance as well\nIncreased hp, damage and armor for all votaries NPC\nSlightly increased hp for any t3 and t4 votaries thralls\nAdded swapn points for random fighters (this will increase a bit chanse to find T4)\nAdded spawn point for dancer\n\nAffected files:\nI was trying to keep changes in independent files, but needed to amend maps files\n\n05.04 Fixed bug with HP for T4 warrior thralls.\n\nMy mods:\nSevere Purge\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1691556242\nTransmogrification\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1697892841\nDeadly Creatures PVE\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1635257531\nLegendary Spawn Increased\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1674189687",
+	"changeNote": "Changed armor for Votaries NPC T4\nAdded swapn points for random fighters (this will increase a bit chanse to find T4)\nAdded spawn point for dancer",
+	"author": "Fenyx",
+	"authorUrl": "",
+	"versionMajor": 0,
+	"versionMinor": 7,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1636189365",
+	"steamVisibility": 0,
+	"folderName": "Respawn_PVE",
+	"revisionNumber": 126893,
+	"snapshotId": 20805
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Transmogrification 0.9.6",
+	"description": "This mod allows you to change appearance of epic armor without changing of it properties. It works similar as transmogrification in WoW just for epic armor.\n\nIt does not affect balance of items. Just appearance.\n\nYou can change any (or almost) epic armor but with following rules:\n- Type of armor should be the same (heavy -> heavy, medium -> medium, ligth -> light)\n- Equip slot should be the same (boots -> boots, etc)\n- Epic armor what you want to change, can be exceptional or flawless\n- Armor, appearance which you want to apply, has not to be flawless or exceptional\n- Not supported base armor from trait Armorer\n\nExample of usage:\n\nBuild Transmogrificator (need to learn trait on 60 lvl)\n\nNow you need transmogrification gem. You can create it using :\nHeart of a Hero (or Heart of the Kinscourge) + 10 Radium Gem = 5 Transmogrification gem\n\nAfter that put into transmogrificator :\n\nEpic Cimmerian Steel Pauldron (id 52562) + Simple Vanir Heavy Pauldron (id 52557) + Transmogrification gem = Epic Cimmerian Steel Pauldron (with new appearance of Vanir Heavy Pauldron)\n\nNow try to equip it.\nRest of receipts the same: Epic Armor (1) + Simple Armor (2) (the same slot and type) + Transmogrification gem = Epic Armor (1) with appearance (2)\n\nNote: proccess can no be undone and not possible change appearance again for transmogrificated item\n\nNote: After transmogrification icon of the item will not be changed, but when you equip it, you will see changes.\n\nNote: Technically this mod creates new armor, so if you delete this mod, all transmogrificated items will be lost.\n\nMy mods:\nSevere Purge\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1691556242\nHardened North\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1636189365\nDeadly Creatures PVE\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1635257531\nLegendary Spawn Increased\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1674189687",
+	"changeNote": "Increased amount transmogrification stones per craft up to 10",
+	"author": "Fenyx",
+	"authorUrl": "",
+	"versionMajor": 0,
+	"versionMinor": 9,
+	"versionBuild": 6,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1697892841",
+	"steamVisibility": 0,
+	"folderName": "Transmogrification",
+	"revisionNumber": 126893,
+	"snapshotId": 20805
+}

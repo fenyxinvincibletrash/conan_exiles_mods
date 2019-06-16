@@ -1,0 +1,16 @@
+{
+	"name": "Deadly Creatures PVE 0.3.1",
+	"description": "This mod makes wild creatures more dangerous. Shouldn't be possible to perform naked run across all map due to increased speed of creatures and their crippled attacks. \n\nCreatures:\nHyenas:\n\tSpeed up to 1300\n\tAdded long cripple attacks\nBears:\n\tAdded long cripple attacks\n\tSpeed up to 1300\n\tBearpaw attack speed incresed on 1.5\n\tBearjab attack speed incresed on 1.5\nCats\n\tMain attack speed increased on 1.6\n\tAdded crippled attacks\n\tSpeed up to 1400\nWolves\n\tSpeed up to 1350\n\tAdded long cripple attacks\n\tSlightly amended preferred attacks\nPrimates\n   Speed up to 1000\n   Added long cripple attacks\n   Main attack speed increased on 1.6\nRocknose\n   Speed up to 1100\n   Added long cripple attacks\n   Main attacks speed increased on 1.6\nCrocos\n   Speed up to 600\n   Added long cripple attacks\n   Main attacks speed increased on 1.6\n\nAdditional for another mods:\nHardened North:\n  Lava Spiders have increased duration of crippled effect",
+	"changeNote": "Crippled attack is more severe   ",
+	"author": "Fenyx",
+	"authorUrl": "",
+	"versionMajor": 0,
+	"versionMinor": 3,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1635257531",
+	"steamVisibility": 0,
+	"folderName": "DeadlyCreaturesPve",
+	"revisionNumber": 124716,
+	"snapshotId": 20621
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Severe Purge PVE v0.8.1",
+	"description": "WARNING: This mod increases the strength of purge. The purge may destroy your base, kill your favorite pet and r.a.p.e your favorite dancer thrall(or vice versa)  if you are not prepared enough.\nBetter test it on local machine first with admin commands or create backup on dedicated server.\n\nFeedback about balance would be appreciated ) Something like: tried on difficulty 4, zone 3, protectors: 8 cimmerian bers,9 archers, kost: 3 bers 1 archer\n\nThe purpose of this mod is to increase the purge complexity. \n\nUPD: Difficuly 6 now is zoneless. So for example severity of purge will be the same in desert and volcano.\n\n\n\nUPD: Added Difficulties of the Purge. So it starts from 7 units for zone 2,  9 for zone 3 and 13 for zone 4 for 1st wave/difficulty 1. Each level of Purge Difficulty adds +3 units in wave up to 30 in zone 4/wave5/Difficulty 6 .\nSo better to start testing it from Purge Difficulty = 1\n\n4 purge zones are now having different purge levels of difficulty:\n1) Starting location by the river - pretty easy purge, but a bit harder than unmodified purge version; \n2) Desert - surviving the purge will require user to have 10+ cimmerian berserker thralls in full equip or equivalent. \n3) Green zone and Munds of Dead - Harder version of previous purge\n4) Rest of the map - Insane version of previous purge\n\nEach wave contains aroud 15% chance to spawn random T4 crafter. So hardest zones have more units in wave and can spawn more T4 crafters.\n\nPS. Deadly Creatures increase severity of the purge due to increased speed attack of animal npc\n\nMy mods:\nHardened North\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1636189365\nDeadly Creatures PVE\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1635257531\nLegendary Spawn Increased\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1674189687",
+	"changeNote": "A bit increased each of purge npc's. Explosive, poison arrows have been added for some archers",
+	"author": "Fenyx",
+	"authorUrl": "",
+	"versionMajor": 0,
+	"versionMinor": 8,
+	"versionBuild": 1,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1691556242",
+	"steamVisibility": 0,
+	"folderName": "SeverePurge",
+	"revisionNumber": 128262,
+	"snapshotId": 20873
+}

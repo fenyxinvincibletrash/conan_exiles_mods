@@ -1,0 +1,16 @@
+{
+	"name": "BuildTableTweak",
+	"description": "WARNIGN: This mod will do nothing without\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1710620926\nDo not use it without that mod.\n\nIt's a tweak mod which allows carpenters to operate on builder's workbench. This reduces crafting cost and speed depends on thrall level (up to x2).\n\nBecause it affects balance and make life easier I've splited them to two mods. Use as you prefer.\n",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1710854505",
+	"steamVisibility": 0,
+	"folderName": "BuildTableTweak",
+	"revisionNumber": 126893,
+	"snapshotId": 20805
+}
